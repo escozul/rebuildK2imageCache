@@ -10,10 +10,11 @@ How to use:
 - Adjust the image sizes to convert to; use a size of 0 if you DO NOT want to process a specific image size
 - Set a range (optional)
 - Execute via terminal with "php -f rebuild.php" (the process overwrites existing files without notice!)
+- Inspect the folders /media/k2/items/src_rebuilt and /media/k2/items/cache_rebuilt to /media/k2/items/src and /media/k2/items/cache respectively to make sure the storage profit is worthwile and then take the rebuilt versions and drop them into the nominal folders to replace originals.
 
 
 ### ADDITIONAL INFO
-Current version is 1.2, updated on June 11th, 2019.
+Current version is 1.5, updated on August 2nd, 2022.
 
 It is compatible with all K2 versions in the 2.x series.
 
